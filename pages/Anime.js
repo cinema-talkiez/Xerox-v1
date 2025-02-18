@@ -3,7 +3,7 @@ import useFetchData from "@/hooks/useFetchData";
 import Spinner from "@/components/Spinner";
 import Head from "next/head";
 import React, { useState } from 'react';
-
+import { useEffect } from "react";
 import { FaEye, FaHeart, FaStar } from "react-icons/fa";
 
 export default function Anime() {
