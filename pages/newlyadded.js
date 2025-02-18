@@ -3,7 +3,7 @@ import useFetchData from "@/hooks/useFetchData";
 import Spinner from "@/components/Spinner";
 import Head from "next/head";
 import { FaEye, FaHeart, FaStar } from "react-icons/fa";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 export default function RecentlyAdded() {
   const { alldata, loading } = useFetchData("/api/getmovies");
 
