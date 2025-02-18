@@ -189,9 +189,11 @@ export default function MoviesPost() {
                                         <iframe
                                             width="100%"
                                             height="370"
-                                            src={alldata[0]?.youtubelink}
+                                            
                                             frameBorder="0"
-                                            allowFullScreen
+                                            scrolling="no"
+                                            allowFullScreen="true"
+                                            src={alldata[0]?.youtubelink}
                                         ></iframe>
                                     </div>
                                 </>
