@@ -445,7 +445,7 @@ nav.sticky #navbar li a:hover {
     /* Ensure text is visible on a black background */
     padding: 0.5rem;
     padding-top: 5px;
-    padding-bottom: 3px;
+    padding-bottom: 5px;
     /* Optional: Add some padding for better spacing */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     /* Optional: Add a subtle shadow */
