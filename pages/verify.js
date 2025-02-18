@@ -88,7 +88,7 @@ export default function VerifyPage() {
           {isVerifying ? "Verifying..." : "Verify Now"}
         </button>
         
-        <p>After verification, the link will open in a new tab.</p>
+        <p>After verification, you will automatically redirect...</p>
       </div>
     </div>
   );
