@@ -4050,13 +4050,13 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 70%;
+    width: 100%;
   }
   
   .type {
     font-size: 13px;
     color: rgb(175, 170, 170);
-    margin-left: 20px;
+    margin-left: 0px;
     white-space: nowrap;
   }
   
