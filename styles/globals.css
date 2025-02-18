@@ -2002,12 +2002,7 @@ nav.sticky .mobile svg {
     object-fit: cover;
 }
 
-.card a img:hover {
 
-
-    border: 2px solid white;
-    box-shadow: 0 0 20px blue;
-}
 
 .card a .contents {
     width: 70%;
